@@ -17,7 +17,7 @@
         "./rawdata/test.chunk.01",
         "./rawdata/test.chunk.02"
     ],
-    "data_path":"/root/kakao_data/data",
+    "data_path":"./data",
     "num_bcate":57,
     "num_mcate":552,
     "num_scate":3190,
