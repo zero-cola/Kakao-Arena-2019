@@ -1,0 +1,44 @@
+{
+    "train_data_list": [
+        "./rawdata/train.chunk.01",
+        "./rawdata/train.chunk.02",
+        "./rawdata/train.chunk.03",
+        "./rawdata/train.chunk.04",
+        "./rawdata/train.chunk.05",
+        "./rawdata/train.chunk.06",
+        "./rawdata/train.chunk.07",
+        "./rawdata/train.chunk.08",
+        "./rawdata/train.chunk.09"
+    ],
+    "dev_data_list": [
+        "./rawdata/dev.chunk.01"
+    ],
+    "test_data_list": [
+        "./rawdata/test.chunk.01",
+        "./rawdata/test.chunk.02"
+    ],
+    "data_path":"/root/kakao_data/data",
+    "num_bcate":57,
+    "num_mcate":552,
+    "num_scate":3190,
+    "num_dcate":404,
+
+    "max_product_jaso_len": 200,
+    "max_brand_jaso_len": 50,
+    "max_model_jaso_len": 140,
+    "max_maker_jaso_len": 100,
+    "max_product_char_len": 100,
+    "max_brand_char_len": 40,
+    "max_model_char_len": 80,
+    "max_maker_char_len": 60,
+
+    "jaso_embed_dim": 250,
+    "char_embed_dim": 250,
+    "lr":1e-3,
+    "lr_decay": 0.8,
+    "decay_step": 7945,
+    "num_epochs": 50,
+    "batch_size": 1024,
+    "infer_batch_size": 4096,
+    "dropout_keep":0.5
+}
