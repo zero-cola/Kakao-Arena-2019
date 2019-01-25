@@ -6,6 +6,11 @@ https://arena.kakao.com/c/1
 
 Team : 제로콜라
 
+Final score: 1.066355415 [(6th)](https://arena.kakao.com/c/1/leaderboard)
+대/중/소/세 accuracy: 0.913/0.865/0.847/0.867
+
+
+
 Download pre-trained ensemble model link [here](https://drive.google.com/open?id=1oez_YRMno0pw1ps1Wm03n_aPAYsgojJ4)
 
 
