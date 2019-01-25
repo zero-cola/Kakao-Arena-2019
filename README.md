@@ -7,6 +7,7 @@ https://arena.kakao.com/c/1
 Team : 제로콜라
 
 Final score: 1.066355415 [(6th)](https://arena.kakao.com/c/1/leaderboard)
+
 대/중/소/세 accuracy: 0.913/0.865/0.847/0.867
 
 
